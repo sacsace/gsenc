@@ -42,7 +42,7 @@ const MvsPageHeader: React.FC<MvsPageHeaderProps> = ({
       >
         {title}
       </Typography>
-      {description ? <Typography sx={{ ...mvsPageDescriptionSx, maxWidth: 880 }}>{description}</Typography> : null}
+      {description ? <Typography sx={mvsPageDescriptionSx}>{description}</Typography> : null}
     </Box>
     {actions ? (
       <Box

@@ -1,8 +1,8 @@
 const en = {
   "gsEncCostAnalysis": {
     "title": "GS E&C Cost Analysis",
-    "subtitle": "Match GAS chart of accounts with Tally cumulative ledger for cost review. (browser local only) Spot tool — data is not saved to the server DB. If mapping looks wrong, use Reset learned mapping then re-import/rematch.",
-    "spotNotice": "Uploaded GAS accounts and cumulative ledger (Journal) Excel files are stored on this PC browser only.",
+    "subtitle": "Match GAS accounts with the Tally ledger to review and total costs. Files stay in this browser only.",
+    "spotNotice": "Nothing is saved to the server. If mapping is wrong, reset learned mapping, then upload and match again.",
     "tabs": {
       "accounts": "GAS Accounts",
       "ledger": "Cost Lines",

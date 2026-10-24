@@ -1,8 +1,8 @@
 const ko = {
   "gsEncCostAnalysis": {
     "title": "GS E&C 원가분석",
-    "subtitle": "GAS 표준계정과 Tally 누계 보조부를 매칭해 원가를 조회·합산합니다. (브라우저 로컬 저장) 서버 DB에 저장되지 않는 스팟 기능입니다. 매핑이 어긋나면 「학습 매핑만 초기화」 후 재업로드·재매핑하세요.",
-    "spotNotice": "GAS 표준계정과 누계 보조부(Journal) 엑셀을 업로드하면 이 PC 브라우저에만 보관됩니다.",
+    "subtitle": "GAS 표준계정과 Tally 누계 보조부를 매칭해 원가를 조회·합산하며, 파일은 이 PC 브라우저에만 보관됩니다.",
+    "spotNotice": "서버 DB에는 저장되지 않습니다. 매핑이 어긋나면 「학습 매핑만 초기화」 후 재업로드·재매핑하세요.",
     "tabs": {
       "accounts": "GAS 계정체계",
       "ledger": "원가 내역",
